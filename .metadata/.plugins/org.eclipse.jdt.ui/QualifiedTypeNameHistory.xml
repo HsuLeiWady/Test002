@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.servlet.ServletConfig"/>
+    <fullyQualifiedTypeName name="java.util.Enumeration"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletContext"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.Cookie"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="studentmanagementsystem.models.StudentBean"/>
+    <fullyQualifiedTypeName name="studentmanagementsystem.persistant.DTO.StudentResponseDTO"/>
+    <fullyQualifiedTypeName name="studentmanagementsystem.persistant.DTO.StudentRequestDTO"/>
+    <fullyQualifiedTypeName name="studentmanagementsystem.persistant.DAO.StudentDAO"/>
+    <fullyQualifiedTypeName name="studentmanagementsystem.models.CourseBean"/>
+    <fullyQualifiedTypeName name="studentmanagementsystem.persistant.DAO.CourseDAO"/>
+    <fullyQualifiedTypeName name="studentmanagementsystem.persistant.DTO.CourseRequestDTO"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.sql.CallableStatement"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,8 @@
+127.0.0.1 - - [29/Apr/2024:11:15:19 +0630] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Apr/2024:11:15:22 +0630] "GET /StudentRegistration/addcourse.jsp HTTP/1.1" 200 4095
+0:0:0:0:0:0:0:1 - - [29/Apr/2024:11:15:22 +0630] "GET /StudentRegistration/test.css HTTP/1.1" 404 783
+0:0:0:0:0:0:0:1 - - [29/Apr/2024:11:15:46 +0630] "GET /StudentRegistration/addstudent.jsp HTTP/1.1" 200 2054
+0:0:0:0:0:0:0:1 - - [29/Apr/2024:11:16:04 +0630] "GET /StudentRegistration/addcourse.jsp HTTP/1.1" 200 4095
+0:0:0:0:0:0:0:1 - - [29/Apr/2024:11:16:04 +0630] "GET /StudentRegistration/test.css HTTP/1.1" 404 783
+127.0.0.1 - - [29/Apr/2024:11:18:57 +0630] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Apr/2024:11:18:57 +0630] "GET /servelt.jsp.part2/loginservlet HTTP/1.1" 200 29

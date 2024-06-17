@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;storeprocedureassign&apos;" deleteContents="false" description="Delete resource &apos;storeprocedureassign&apos;" element1="/storeprocedureassign" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1718267757480"/>
+</session>

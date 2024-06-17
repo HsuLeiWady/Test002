@@ -1,0 +1,25 @@
+package storeprocedureassign;
+
+public class deleteSP {
+	public static Connection con = null;
+	static {
+	con = MyConnection.getConnection();
+	}
+	public static void main(String[] args) {
+		try {
+CallableStatement cst=con.prepareCall(
+"call DeleteCustomer(?)“
+);
+cst.setInt(1,7);
+int result=cst.executeUpdate();	
+if(result>0) {
+	System.out.println("Successfully Delete");
+}
+cst.close();
+} catch (SQLException e) {
+	e.printStackTrace();
+	}
+        }
+}
+
+}

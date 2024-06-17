@@ -1,0 +1,32 @@
+package storeprocedureassign;
+
+import java.sql.CallableStatement;
+import java.sql.Connection;
+import java.sql.SQLException;
+
+public class createsp {
+	public static Connection con = null;
+	static {
+	con = MyConnection.getConnection();
+	}
+	public static void main(String[] args) {
+	try {
+		CallableStatement cst=con.prepareCall(
+				"call add_customer(?,?,?,?)");
+		cst.setInt(1,8);
+		cst.setString(2, "Dapu");
+		cst.setInt(3, 32);
+		cst.setString(4,"New Dali");
+		cst.setDouble(5, 4000.00);
+		int result=cst.executeUpdate();
+		if(result>0) {
+	System.out.println("Successfully Insert");
+	}
+	cst.close();
+} catch (SQLException e) {		
+	e.printStackTrace();
+		}	
+	}
+}
+
+

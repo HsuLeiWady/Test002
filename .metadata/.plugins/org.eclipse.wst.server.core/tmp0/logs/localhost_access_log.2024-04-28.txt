@@ -1,0 +1,13 @@
+127.0.0.1 - - [28/Apr/2024:23:24:55 +0630] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [28/Apr/2024:23:24:57 +0630] "GET /StudentRegistration/ HTTP/1.1" 200 2054
+0:0:0:0:0:0:0:1 - - [28/Apr/2024:23:24:57 +0630] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [28/Apr/2024:23:29:27 +0630] "POST /StudentRegistration/addstudent HTTP/1.1" 500 1453
+127.0.0.1 - - [28/Apr/2024:23:33:21 +0630] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [28/Apr/2024:23:33:23 +0630] "GET /StudentRegistration/ HTTP/1.1" 200 2054
+0:0:0:0:0:0:0:1 - - [28/Apr/2024:23:33:49 +0630] "POST /StudentRegistration/addstudent HTTP/1.1" 500 1453
+127.0.0.1 - - [28/Apr/2024:23:46:26 +0630] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [28/Apr/2024:23:46:29 +0630] "GET /StudentRegistration/ HTTP/1.1" 200 2054
+0:0:0:0:0:0:0:1 - - [28/Apr/2024:23:46:46 +0630] "POST /StudentRegistration/addstudent HTTP/1.1" 500 1453
+0:0:0:0:0:0:0:1 - - [28/Apr/2024:23:47:50 +0630] "GET /StudentRegistration/ HTTP/1.1" 200 2054
+0:0:0:0:0:0:0:1 - - [28/Apr/2024:23:47:51 +0630] "GET /StudentRegistration/ HTTP/1.1" 200 2054
+0:0:0:0:0:0:0:1 - - [28/Apr/2024:23:48:09 +0630] "POST /StudentRegistration/addstudent HTTP/1.1" 500 1453
